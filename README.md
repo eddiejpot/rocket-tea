@@ -25,11 +25,10 @@
 
 ### Customer:
 
-- Wants to buy a cup of tea / many teas as quick as possible and collect it near my location
+- Wants to buy a cup of tea / many teas as quick as possible and collect it near their location
 - Wants to choose the pick up time
-- Wants to customize my tea order
-- Wants to know the status of my order
-  - figure out where archived orders go
+- Wants to customize their tea order
+- Wants to know the status of their order
 
 ### Store:
 
