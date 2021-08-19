@@ -36,6 +36,10 @@
 - Wants to know what time the pick up is
 - Wants to mark order as done when customer has picked it up
 
+### USERFLOW
+
+<img src="readme_images/rocket_tea_userflow_mvp.jpg">
+
 ### ERD
 
-<img src="public/erd.jpg">
+<img src="readme_images/rocket_tea_erd_mvp.jpg">
